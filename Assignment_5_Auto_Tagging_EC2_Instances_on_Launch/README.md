@@ -11,7 +11,8 @@
 
 2. Lambda IAM Role:
    - create/Update role for Lambda.
-   - <img width="1918" height="907" alt="image" src="https://github.com/user-attachments/assets/3c42f956-0e12-4c0a-9a66-4c33f93d7184" />
+   - <img width="1912" height="816" alt="image" src="https://github.com/user-attachments/assets/0f9e72d9-26f8-45a6-86f8-71b27360d8a5" />
+
 
 3. Lambda Function:
    - Navigate to the Lambda dashboard and create a new function.
@@ -19,7 +20,8 @@
    - Assign the IAM role created in the previous step.
  
     <br>
-     - <img width="1913" height="912" alt="image" src="https://github.com/user-attachments/assets/df10efc5-0fa9-4646-aea5-ba59fcdcfa23" />
+     - <img width="1916" height="823" alt="image" src="https://github.com/user-attachments/assets/3f6e103c-6801-48ee-9b91-6147ec9ae663" />
+
     <br><br>
  
    - Write the Boto3 Python script to:
@@ -90,13 +92,15 @@
    - Launch a new EC2 instance.
  
     <br>
-    <img width="1912" height="780" alt="image" src="https://github.com/user-attachments/assets/4a018160-4afe-41bd-ab3c-a6470e6f74ad" />
+<img width="1897" height="804" alt="image" src="https://github.com/user-attachments/assets/3a1a6ca9-d105-4a77-bb64-11d88d81a94a" />
+
 
    <br><br>
  
    - CloudeWatch logs:
    <br>
-   <img width="1917" height="911" alt="image" src="https://github.com/user-attachments/assets/7569bdb5-e43d-408b-a0c0-05d2a3161ff1" />
+   <img width="1912" height="805" alt="image" src="https://github.com/user-attachments/assets/cc4b8e94-1423-4176-98b3-4db99fa862a1" />
+
 
    <br><br>
  
