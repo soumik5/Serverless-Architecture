@@ -5,7 +5,8 @@
 1. Setup:
    - Create two EC2 instances.
    <br><br>
-   <img width="1500" height="298" alt="image" src="https://github.com/user-attachments/assets/113c714e-5fc6-495f-b3c6-da733332be2b" />
+  <img width="1907" height="374" alt="image" src="https://github.com/user-attachments/assets/15b81445-11e0-4a14-8ddb-cd4b7a4aff2b" />
+
    <br><br>
    
     - Tag lambda1 as `Auto-Stop`
@@ -18,14 +19,17 @@
    - Set up an AWS Lambda function.
   
    <br><br>
-   <img width="1500" height="921" alt="image" src="https://github.com/user-attachments/assets/ea6005ac-208e-4cfd-8307-5e317acb515e" />
-   <img width="1500" height="922" alt="image" src="https://github.com/user-attachments/assets/ba6e5901-613b-462a-9aea-df0735a52a55" /> 
+   <img width="1916" height="881" alt="image" src="https://github.com/user-attachments/assets/38a8aa6c-b6d5-408a-9f74-895985a6d6ae" />
+
+   <img width="1914" height="915" alt="image" src="https://github.com/user-attachments/assets/90cf033b-b328-4515-8867-d640616e1a54" />
+
    <br><br>
    
    - Ensure that the Lambda function has the necessary IAM permissions to describe, stop, and start EC2 instances.
      
    <br><br> 
-   <img width="1917" height="831" alt="image" src="https://github.com/user-attachments/assets/94bc4474-5663-40d5-a602-7a91cf3e83bb" />
+   <img width="1915" height="816" alt="image" src="https://github.com/user-attachments/assets/e1f378d9-6b47-4505-aae9-45566b76109a" />
+
    <br><br>
 
 3. Coding:
@@ -92,6 +96,7 @@ def lambda_handler(event, context):
      - <img width="1042" height="351" alt="image" src="https://github.com/user-attachments/assets/4200af55-945c-4e44-abdb-9a51e2088f09" />
 
   
-     - <img width="1918" height="922" alt="image" src="https://github.com/user-attachments/assets/c9277a93-e637-43a3-93ed-086469747ad7" />
+     <img width="1916" height="886" alt="image" src="https://github.com/user-attachments/assets/2e6aa565-3675-4504-9a4c-8426d6ed3c61" />
+
  
      <br><br>
